@@ -28,7 +28,7 @@ at a click.
 
 %description -l pl
 GooSNES jest ma³± nak³adk± w GTK+ na SNES9x. Pozwala u¿ytkownikom
-ustawiaæ opcje SNES9x bez wpisywania stron komand z lini poleceñ.
+ustawiaæ opcje SNES9x bez wpisywania stron komand z linii poleceñ.
 Pozwala te¿ wybraæ obraz SNES i uruchomiæ SNES9x jednym klikniêciem.
 
 %prep
