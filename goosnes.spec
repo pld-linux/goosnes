@@ -13,6 +13,7 @@ BuildRequires:	fontconfig-devel
 BuildRequires:	freetype-devel
 BuildRequires:	gtk+2-devel
 BuildRequires:	libxml2-devel
+BuildRequires:	pkgconfig
 BuildRequires:	zlib-devel
 Requires:	snes9x
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -41,6 +42,7 @@ Pozwala te¿ wybraæ obraz SNES i uruchomiæ SNES9x jednym klikniêciem.
 
 %install
 rm -rf $RPM_BUILD_ROOT
+
 %{__make} install \
 	DESTDIR=$RPM_BUILD_ROOT
 
