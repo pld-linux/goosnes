@@ -7,7 +7,7 @@ Release:	1
 Source0:	http://bard.sytes.net/debian/dists/unstable/main/source/%{name}_%{fversion}.tar.gz
 # Source0-md5:	032cb84df865f4b9e76973f8c0195804
 License:	GPL
-Group:		Application/Emulators
+Group:		Applications/Emulators
 URL:		http://bard.sytes.net/goosnes/
 BuildRequires:	autoconf
 BuildRequires:	automake
