@@ -9,6 +9,8 @@ Source0:	http://bard.sytes.net/debian/dists/unstable/main/source/%{name}_%{fvers
 License:	GPL
 Group:		Application/Emulators
 URL:		http://bard.sytes.net/goosnes/
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	fontconfig-devel
 BuildRequires:	freetype-devel
 BuildRequires:	gtk+2-devel
