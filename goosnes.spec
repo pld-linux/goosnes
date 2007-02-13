@@ -1,6 +1,6 @@
 %define		fversion	%(echo %{version} |tr r -)
 Summary:	Graphical frontend for the snes9x Super NES emulator
-Summary(pl.UTF-8):   Graficzna nakładka na emulator Super NES snes9x
+Summary(pl.UTF-8):	Graficzna nakładka na emulator Super NES snes9x
 Name:		goosnes
 Version:	0.5.2r1
 Release:	1
